@@ -51,3 +51,6 @@ linux/
 macos/
 web/
 windows/
+.vscode
+.metadata
+analysis_options.yaml
